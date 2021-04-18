@@ -1,0 +1,15 @@
+{
+    "name": "ardc/x1-custom-module-x1-block-content",
+    "description": "X1 AGLDWG Custom Module X1 block content",
+    "type": "drupal-custom-module",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "Richard Walker",
+            "email": "Richard.Walker@ardc.edu.au"
+        }
+    ],
+    "require": {
+        "drupal/migrate_plus": "^5.1"
+    }
+}
