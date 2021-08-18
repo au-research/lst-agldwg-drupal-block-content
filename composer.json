@@ -10,6 +10,8 @@
         }
     ],
     "require": {
-        "drupal/migrate_plus": "^5.1"
+        "drupal/migrate_plus": "^5.1",
+        "drupal/token_filter": "^1.2",
+        "ardc/x1-custom-module-x1": "^1.45"
     }
 }
