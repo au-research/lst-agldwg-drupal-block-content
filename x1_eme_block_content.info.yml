@@ -7,7 +7,7 @@ dependencies:
   - 'drupal:migrate'
   - 'migrate_plus:migrate_plus'
   - 'token_filter:token_filter'
-  - 'x1-custom-module-x1:x1-custom-module-x1'
+  - 'x1:x1'
 eme_settings:
   plugin: json_files
   migrations:
