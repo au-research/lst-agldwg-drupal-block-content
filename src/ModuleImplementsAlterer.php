@@ -1,6 +1,6 @@
 <?php
 
-namespace Drupal\x1_eme_block_content;
+namespace Drupal\lst_agldwg_block_content;
 
 /**
  * Alters the module's hook implementations.

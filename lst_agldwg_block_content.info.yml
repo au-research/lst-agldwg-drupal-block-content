@@ -1,18 +1,18 @@
-name: 'X1 eme block content'
+name: 'LinkStitcher AGLDWG block content'
 type: module
 description: 'Generated with EME module'
 core_version_requirement: '^8.9 || ^9'
-scenarios_module: x1_eme_block_content
+scenarios_module: lst_agldwg_block_content
 dependencies:
   - 'drupal:migrate'
   - 'migrate_plus:migrate_plus'
   - 'token_filter:token_filter'
-  - 'x1:x1'
+  - 'lst_agldwg:lst_agldwg'
 eme_settings:
   plugin: json_files
   migrations:
-    - x1_eme_block_content_block_content_basic
+    - lst_agldwg_block_content_block_content_basic
   types:
     - block_content
-  id-prefix: x1_eme_block_content
-  group: x1_eme_block_content
+  id-prefix: lst_agldwg_block_content
+  group: lst_agldwg_block_content

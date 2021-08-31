@@ -1,6 +1,6 @@
 {
-    "name": "ardc/x1-custom-module-x1-block-content",
-    "description": "X1 AGLDWG Custom Module X1 block content",
+    "name": "ardc/lst-agldwg-block-content",
+    "description": "LinkStitcher AGLDWG block content",
     "type": "drupal-custom-module",
     "license": "Apache-2.0",
     "authors": [
@@ -12,6 +12,6 @@
     "require": {
         "drupal/migrate_plus": "^5.1",
         "drupal/token_filter": "^1.2",
-        "ardc/x1-custom-module-x1": "^1.45"
+        "ardc/lst-agldwg": "^1.46"
     }
 }

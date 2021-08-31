@@ -1,11 +1,11 @@
 label: 'Import block_content basic'
 migration_tags:
-  - 'Drupal 8'
+  - 'Drupal 9'
   - Content
-  - 'X1 eme block content'
-  - x1_eme_block_content
-migration_group: x1_eme_block_content
-id: x1_eme_block_content_block_content_basic
+  - 'LinkStitcher AGLDWG block content'
+  - lst_agldwg_block_content
+migration_group: lst_agldwg_block_content
+id: lst_agldwg_block_content_block_content_basic
 source:
   plugin: url
   data_fetcher_plugin: file

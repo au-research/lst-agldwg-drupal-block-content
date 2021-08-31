@@ -1,6 +1,6 @@
 <?php
 
-namespace Drupal\x1_eme_block_content;
+namespace Drupal\lst_agldwg_block_content;
 
 /**
  * Alters the migration plugin definitions.
@@ -16,7 +16,7 @@ class MigrationPluginAlterer {
 
     // Update source references in our migrations.
     foreach ($definitions as $plugin_id => $definition) {
-      if ($definition['provider'] !== 'x1_eme_block_content') {
+      if ($definition['provider'] !== 'lst_agldwg_block_content') {
         continue;
       }
       // Set constant for file migration.
