@@ -12,6 +12,6 @@
     "require": {
         "drupal/migrate_plus": "^6.0",
         "drupal/token_filter": "^2.0",
-        "ardc/lst-agldwg": "^1.74"
+        "ardc/lst-agldwg": ">=1.74"
     }
 }
